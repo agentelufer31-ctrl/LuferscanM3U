@@ -5,4 +5,4 @@ git clone
 https://github.com/agentelufer31-ctrl/LuferscanM3U
 cd LuferscanM3U
 ls
-python3 VΞNGΞANCΞ_v7.py
+python3 brutalXtreme.py
